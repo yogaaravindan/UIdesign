@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435650885109",
+    "firebase_url": "https://ui-design-fc932.firebaseio.com",
+    "project_id": "ui-design-fc932",
+    "storage_bucket": "ui-design-fc932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435650885109:android:013c6c3c76973c1aac1cbc",
+        "android_client_info": {
+          "package_name": "com.example.uidesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435650885109-39jacqm62595pn1q0lhhqve5s5dju32c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uidesign",
+            "certificate_hash": "2a6aaaa807809440979279aac818fcf4cf252275"
+          }
+        },
+        {
+          "client_id": "435650885109-56l8g1oje2h1sf3k34vgggntair05o8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpjKEQwVMww0_tDtpwMvF0akoJwYYg6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435650885109-56l8g1oje2h1sf3k34vgggntair05o8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
